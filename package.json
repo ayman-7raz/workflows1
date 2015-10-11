@@ -1,0 +1,10 @@
+{
+  "name": "workflows1",
+  "version": "0.0.1",
+  "description": "A project to showcase workflows1",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Ayman Alotaibi"
+}
